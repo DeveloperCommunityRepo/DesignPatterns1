@@ -2,6 +2,9 @@
   <Folder Name="/01_CreationalPatterns/">
     <Project Path="01_CretionalPatterns/01_SingletonPattern/01_SingletonPattern.csproj" />
     <Project Path="01_CretionalPatterns/02_FactoryPattern/02_FactoryPattern.csproj" />
+    <Project Path="01_CretionalPatterns/03_AbstractFactoryPattern/03_AbstractFactoryPattern.csproj" />
+    <Project Path="01_CretionalPatterns/04_BuilderPattern/04_BuilderPattern.csproj" />
+    <Project Path="01_CretionalPatterns/05_PrototypePattern/05_PrototypePattern.csproj" />
   </Folder>
   <Folder Name="/Solution Items/">
     <File Path="README.md" />
