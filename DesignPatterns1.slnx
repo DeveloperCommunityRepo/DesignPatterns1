@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/01_CreationalPatterns/">
+    <Project Path="01_CretionalPatterns/01_SingletonPattern/01_SingletonPattern.csproj" />
+    <Project Path="01_CretionalPatterns/02_FactoryPattern/02_FactoryPattern.csproj" />
+  </Folder>
+</Solution>
