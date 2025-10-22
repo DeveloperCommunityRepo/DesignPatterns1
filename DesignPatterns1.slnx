@@ -6,6 +6,15 @@
     <Project Path="01_CretionalPatterns/04_BuilderPattern/04_BuilderPattern.csproj" />
     <Project Path="01_CretionalPatterns/05_PrototypePattern/05_PrototypePattern.csproj" />
   </Folder>
+  <Folder Name="/02_StructuralPatterns/">
+    <Project Path="02_StructuralPatterns/01_AdapterPattern/01_AdapterPattern.csproj" Id="a7898482-e160-4b98-b93d-445379c19abd" />
+    <Project Path="02_StructuralPatterns/02_BridgePattern/02_BridgePattern.csproj" Id="c7b591b0-1923-49e4-95fe-edace303aca3" />
+    <Project Path="02_StructuralPatterns/03_CompositePattern/03_CompositePattern.csproj" Id="ecfbdc3f-22f4-48b6-ad9e-1e44c523cad0" />
+    <Project Path="02_StructuralPatterns/04_DecoratorPattern/04_DecoratorPattern.csproj" Id="40326fd4-1e69-412e-a69f-0c615a847a8a" />
+    <Project Path="02_StructuralPatterns/05_FacadePattern/05_FacadePattern.csproj" Id="52d7ab70-def1-4a4f-aef1-fdbf8d3a0144" />
+    <Project Path="02_StructuralPatterns/06_FlyweightPattern/06_FlyweightPattern.csproj" Id="64e32d15-17c4-4258-b17c-1e5739cdfcd2" />
+    <Project Path="02_StructuralPatterns/07_ProxyPattern/07_ProxyPattern.csproj" Id="e90c4b1a-c9fb-4bb3-9b53-fe5a480d1fac" />
+  </Folder>
   <Folder Name="/Solution Items/">
     <File Path="README.md" />
   </Folder>
